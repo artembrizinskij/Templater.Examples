@@ -1,0 +1,29 @@
+{
+  "To": [
+    {
+      "Title": "...",
+      "Is": [
+        {
+		  "Type":"...",
+		  "Responsible":"...",
+          "CoCurrTitleSpacer": ""
+        },
+        {
+		  "Type":"...",
+		  "Responsible":"...",
+          "CoCurrTitleSpacer": ""
+        }
+      ]
+    },
+    {
+      "Title": "...",
+      "Is": [
+        {
+	      "Type":"...",
+		  "Responsible":"...",
+          "CoCurrTitleSpacer": "..."
+        }
+      ]
+    }
+  ]
+}
