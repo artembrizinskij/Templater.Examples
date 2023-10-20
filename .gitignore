@@ -57,3 +57,11 @@ bld/
 *.nuget.targets
 
 
+Office/PptxResizeError/PptxResizeError/.vs/PptxResizeError/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+*.bin
+Office/PptxAtFormatter/src/PptxAtFormatter/.vs/
+Office/PptxArrayData/src/FillPptxFromArray/.vs/
+Office/HideBlockError/src/.vs/
+Office/FillingPptxFromArray/.vs/
+Office/BrokenXlsxResult/src/BrokenXlsx/.vs/
